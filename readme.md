@@ -29,9 +29,7 @@ The Counter Smart Contract is designed to demonstrate the fundamentals of workin
 ## Contract Address
 The contract has been deployed on the Ethereum network. The contract address is as follows:
 
-**Contract Address:** `0xYourContractAddressHere`
-
-(Replace `0xYourContractAddressHere` with the actual contract address after deployment.)
+**Contract Address:** `0xe7822eff57e75e7e745509944121471093d0d80a`
 
 ## Functions
 
