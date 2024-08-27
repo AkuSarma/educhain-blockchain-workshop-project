@@ -1,4 +1,5 @@
 # Counter Smart Contract
+![image](https://github.com/user-attachments/assets/9f8762bb-d425-4bc4-aa3c-aeb77bc3fdc8)
 
 ## Vision
 The Counter Smart Contract is designed to demonstrate the fundamentals of working with Solidity on the Ethereum blockchain. It provides a simple yet effective way to increment a counter and retrieve its value. This project aims to serve as an introductory example for learning and experimenting with Solidity, smart contract development, and deploying contracts on the Ethereum blockchain.
