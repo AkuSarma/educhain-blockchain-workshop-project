@@ -65,9 +65,9 @@ The contract is written in Solidity version 0.8.19. The development environment 
 For any queries or collaborations, feel free to contact me:
 
 **Name:** Aku Sarma  
-**Email:** aku.sarma@example.com  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-**GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
+**Email:** akusarma1702@gmail.com
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/akusarma/)  
+**GitHub:** [Your GitHub Profile](https://github.com/AkuSarma)
 
 ---
 
