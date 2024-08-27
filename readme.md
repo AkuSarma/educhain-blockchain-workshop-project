@@ -4,7 +4,7 @@
 The Counter Smart Contract is designed to demonstrate the fundamentals of working with Solidity on the Ethereum blockchain. It provides a simple yet effective way to increment a counter and retrieve its value. This project aims to serve as an introductory example for learning and experimenting with Solidity, smart contract development, and deploying contracts on the Ethereum blockchain.
 
 ## Flowchart
-
+```flow
 +---------------------------+
 |      Counter Contract      |
 +---------------------------+
@@ -24,7 +24,7 @@ The Counter Smart Contract is designed to demonstrate the fundamentals of workin
             |
             v
     Returns the current counter value
-
+```
 
 ## Contract Address
 The contract has been deployed on the Ethereum network. The contract address is as follows:
